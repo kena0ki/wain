@@ -1,4 +1,4 @@
-wain
+<ruby>wa<rt>ｳｪ</rt>i<rt>ｲ</rt>n<rt>ﾝ</rt></ruby><br>
 ====
 [![crates.io][crates-io-badge]][crates-io]
 [![CI][ci-badge]][ci]
